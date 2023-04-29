@@ -1,10 +1,14 @@
 ### Hi, I'm Victor 🖥️😃
 
-```
+```js
 const victor-rmz = {
-  pronouns: "he" | "him"
+  pronouns: "he" | "him",
+  code: [ Javascript, Typescript, HTML, CSS ],
+  tools: [ Angular ],
 }
 ```
+You can contact me 🌎:
+- Email: victor.ramirez.mdza@outlook.com 
 
 <!--
 **victor-rmz/victor-rmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
