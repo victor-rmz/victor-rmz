@@ -1,5 +1,11 @@
 ### Hi, I'm Victor 🖥️😃
 
+```
+const victor-rmz = {
+  pronouns: "he" | "him"
+}
+```
+
 <!--
 **victor-rmz/victor-rmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
